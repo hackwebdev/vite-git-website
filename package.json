@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "postcss-nesting": "^10.1.10",
+    "postcss": "^8.4.14",
+    "postcss-mixins": "^9.0.3",
+    "postcss-nested": "^5.0.6",
     "postcss-simple-vars": "^6.0.3",
     "vite": "^3.0.0"
   }
